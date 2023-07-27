@@ -63,7 +63,7 @@ function Card(props) {
               {props.data.publicprojects}
             </li>
 
-            {/* giving the details of publicprojectEnabler */}
+            {/* giving the details of communityEnabler */}
 
             <li className={props.data.communityEnabler ? "" : "text-muted"}>
               <span class="fa-li">
